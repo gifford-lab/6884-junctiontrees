@@ -1,0 +1,7 @@
+*.pyc
+processed/
+fast*
+molvae/
+molopt/
+bo/
+out/*
