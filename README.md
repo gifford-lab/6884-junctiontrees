@@ -3,7 +3,7 @@
   
 Deep learning requires lots of computational resources, so for this class we introduce the Google Cloud Platform to run and store your models for your convenience. You will each be provided with a coupon for $50, which roughly translates to 5 hours of compute time/week. You will use the same account for the entire semester - including the final project - so don’t spend it all in one place! You will run the code in this notebook using Google Cloud Datalab. For this problem set, you will be initializing a GPU-enabled Cloud DataLab instance.  
   
-**>> Once you have completed Datalab setup in this README, please download the "[DOWNLOAD ME]" file in this repo and run it in your newly created Datalab environment to begin!<<** 
+**>> Once you have completed Datalab setup in this README, please download the "[DOWNLOAD & UPLOAD TO DATALAB]" file in this repo and run it in your newly created Datalab environment to begin!<<** 
   
 <br/><br/>
 ### Getting Started: First time using Google Cloud / Datalab:
